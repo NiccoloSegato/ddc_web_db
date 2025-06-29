@@ -1057,8 +1057,11 @@
          path.style.cursor = 'pointer';
          path.addEventListener('click', () => {
            const iso = path.id;
+           mapSelection(iso);
+           /*
            const url = `/state/${iso.toLowerCase()}`;
-           window.top.location.href = `https://segatos-project.webflow.io` + url; // <-- importante: usa top per uscire dall’object
+           window.top.location.href = `https://segatos-project.webflow.io` + url;
+           */
          });
        });
      });
