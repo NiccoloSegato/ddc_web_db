@@ -1057,10 +1057,11 @@
          path.style.cursor = 'pointer';
          path.addEventListener('click', () => {
            const iso = path.id;
+           window.top.postMessage({ type: "country-click", iso }, "*");
+           /*
            if (window.top && typeof window.top.mapSelection === 'function') {
              window.top.mapSelection(iso);
            }
-           /*
            const url = `/state/${iso.toLowerCase()}`;
            window.top.location.href = `https://segatos-project.webflow.io` + url;
            */
