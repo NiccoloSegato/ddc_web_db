@@ -12,11 +12,11 @@
 
    <style>
      path {
-       fill: #ffffff; /* o qualsiasi colore desideri */
+       fill: #323232;
      }
    
      path:hover {
-       fill: #ff5722; /* esempio: colore al passaggio del mouse */
+       fill: #ffffff;
      }
    </style>
  
@@ -1045,13 +1045,13 @@
      title="Zimbabwe"
      id="ZW" />
    <script><![CDATA[
-     const visited = ['IT', 'FR', 'JP'];
+     const visited = ['IT', 'FR', 'JP', 'AT', 'BE', 'BG', 'CZ'];
    
      document.addEventListener('DOMContentLoaded', function () {
        const paths = document.querySelectorAll('path');
        paths.forEach(path => {
          if (visited.includes(path.id)) {
-           path.style.fill = '#4caf50';
+           path.style.fill = '#CFCFCF';
          }
    
          path.style.cursor = 'pointer';
