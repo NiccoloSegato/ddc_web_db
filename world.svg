@@ -1045,7 +1045,7 @@
      title="Zimbabwe"
      id="ZW" />
    <script><![CDATA[
-     const visited = ['IT', 'FR', 'JP', 'AT', 'BE', 'BG', 'CZ'];
+     const visited = ['IT', 'FR', 'JP', 'AT', 'BE', 'BG', 'CZ', 'CZ', 'DE', 'GR'];
    
      document.addEventListener('DOMContentLoaded', function () {
        const paths = document.querySelectorAll('path');
