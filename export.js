@@ -822,9 +822,38 @@ export const countriesData = [
   },
   {
     "Name": "JAPAN",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/6864526ab0c30524b36630c1_icons8-giappone-circolare-96.png",
     "ISO": "JP",
-    "Visited": {},
+    "Visited": {
+    	"years": "2025",
+      "cities": "Tokyo, Kyoto, Osaka, Nara",
+      "photos": [
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/686451300588891f7420beb7_IMG_6160.webp",
+          "description": "Statue of Liberty, New York City"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68645130f950cf727bd227c4_IMG_5793.webp",
+          "description": "Radio City Music Hall, New York City"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68645130c6430209f1f5d098_IMG_6307.webp",
+          "description": "Lincoln Memorial, Washington D.C."
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68645130fb1a9ba77f71da4b_IMG_6126.webp",
+          "description": "Empire State Building, New York City"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/6864513131693aaa43c8d1fd_IMG_6084.webp",
+          "description": "Brooklyn Bridge, New York City"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68645131a0e2e0d381927ebe_IMG_5818.webp",
+          "description": "Times Square, New York City"
+        }
+      ]
+    },
     "Continent": "asia"
   },
   {
@@ -1742,7 +1771,7 @@ export const countriesData = [
   },
   {
     "Name": "USA",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686452428bb139003643a9b3_icons8-usa-circolare-96.png",
     "ISO": "US",
     "Visited": {
     	"years": "2025",
