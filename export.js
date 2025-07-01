@@ -68,25 +68,25 @@ export const countriesData = [
     "ISO": "AT",
     "Visited": {
     	"years": "2018, 2022",
-        "cities": "Wien, Innsbruck",
-        "photos": [
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/685eb05b9497172cc2725178_IMG_1595.webp",
-            "description": "Sachertorte"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/685ebdad9aef5772c61a019e_IMG_1605.webp",
-            "description": "Wien"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/685ebdace0c7937ac2f7efc5_IMG_1597.webp",
-            "description": "Wien"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/685ec846df807574da216916_IMG_1609.webp",
-            "description": "Wien"
-            }
-        ]
+      "cities": "Wien, Innsbruck, Graz",
+      "photos": [
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/685eb05b9497172cc2725178_IMG_1595.webp",
+          "description": "Sachertorte"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/685ebdad9aef5772c61a019e_IMG_1605.webp",
+          "description": "Wien"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/685ebdace0c7937ac2f7efc5_IMG_1597.webp",
+          "description": "Wien"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/685ec846df807574da216916_IMG_1609.webp",
+          "description": "Wien"
+        }
+      ]
     },
     "Continent": "europe"
   },
@@ -137,30 +137,30 @@ export const countriesData = [
     "Flag": "6831c8a6f7482bc92e1902d2/6831ca842251f3887438376e_icons8-belgio-circolare-96.png",
     "ISO": "BE",
     "Visited": {
-        "years": "2019, 2023",
-        "cities": "Bruxelles, Antwerpen",
-        "photos": [
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686160f4a239dd707e2176c3_IMG_4411.jpeg.webp",
-                "description": "European Commission"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686161167f48c7503b2ba0bf_IMG_4387.webp",
-                "description": "Grand Place, Bruxelles"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/68616116e4b8e1eeca50ad54_IMG_4402.webp",
-                "description": "Grand Place, Bruxelles"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686161162668698ad9e18201_IMG_3857.webp",
-                "description": "Central Station, Antwerpen"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686161164979f309dcb86ec0_IMG_3849.webp",
-                "description": "Antwerpen"
-            }
-        ]
+      "years": "2019, 2023",
+      "cities": "Bruxelles, Antwerpen",
+      "photos": [
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/686160f4a239dd707e2176c3_IMG_4411.jpeg.webp",
+            "description": "European Commission"
+        },
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/686161167f48c7503b2ba0bf_IMG_4387.webp",
+            "description": "Grand Place, Bruxelles"
+        },
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/68616116e4b8e1eeca50ad54_IMG_4402.webp",
+            "description": "Grand Place, Bruxelles"
+        },
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/686161162668698ad9e18201_IMG_3857.webp",
+            "description": "Central Station, Antwerpen"
+        },
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/686161164979f309dcb86ec0_IMG_3849.webp",
+            "description": "Antwerpen"
+        }
+      ]
     },
     "Continent": "europe"
   },
@@ -225,30 +225,30 @@ export const countriesData = [
     "Flag": "6831c8a6f7482bc92e1902d2/6836c20cae3d5619c705c5d9_icons8-bulgaria-circolare-96%20(1).png",
     "ISO": "BG",
     "Visited": {
-        "years": "2024",
-        "cities": "Sofia",
-        "photos": [
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686163dcea496aa996ce000f_IMG_2693.webp",
-                "description": "McDonald's, Sofia"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686163dc74ae9957f2bc56f8_IMG_2697.webp",
-                "description": "Bulgarian National Assembly, Sofia"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686163dcb8a28c532bbca29b_IMG_2789.webp",
-                "description": "Sofia"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686163dc535da061e4b2f562_IMG_2719.webp",
-                "description": "Saint Alexander Nevsky Cathedral, Sofia"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686163e43bc39c385a476a9f_IMG_2794.webp",
-                "description": "Meshana skara"
-            }
-        ]
+      "years": "2024",
+      "cities": "Sofia",
+      "photos": [
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/686163dcea496aa996ce000f_IMG_2693.webp",
+            "description": "McDonald's, Sofia"
+        },
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/686163dc74ae9957f2bc56f8_IMG_2697.webp",
+            "description": "Bulgarian National Assembly, Sofia"
+        },
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/686163dcb8a28c532bbca29b_IMG_2789.webp",
+            "description": "Sofia"
+        },
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/686163dc535da061e4b2f562_IMG_2719.webp",
+            "description": "Saint Alexander Nevsky Cathedral, Sofia"
+        },
+        {
+            "link": "67e3ffc88f0f4eced6e32ca0/686163e43bc39c385a476a9f_IMG_2794.webp",
+            "description": "Meshana skara"
+        }
+      ]
     },
     "Continent": "europe"
   },
@@ -1447,22 +1447,22 @@ export const countriesData = [
     "Flag": "67e3ffc88f0f4eced6e32ca0/686159497a13930d353eaf87_icons8-slovacchia-circolare-96.png",
     "ISO": "SK",
     "Visited": {
-        "years": "2018",
-        "cities": "Bratislava",
-        "photos": [
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/68643749c8a44250e77a4125_IMG_1290.webp",
-                "description": "Bratislava"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/686437490e08464d21859d22_IMG_1344.webp",
-                "description": "Novy Most, Bratislava"
-            },
-            {
-                "link": "67e3ffc88f0f4eced6e32ca0/68643749628c0f4a0630cce6_IMG_1341.webp",
-                "description": "Bratislava"
-            }
-        ]
+      "years": "2018",
+      "cities": "Bratislava",
+      "photos": [
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68643749c8a44250e77a4125_IMG_1290.webp",
+          "description": "Bratislava"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/686437490e08464d21859d22_IMG_1344.webp",
+          "description": "Novy Most, Bratislava"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68643749628c0f4a0630cce6_IMG_1341.webp",
+          "description": "Bratislava"
+        }
+      ]
     },
     "Continent": "europe"
   },
@@ -1512,7 +1512,32 @@ export const countriesData = [
     "Name": "SPAIN",
     "Flag": "67e3ffc88f0f4eced6e32ca0/68615949e7eb9008e6278f4b_icons8-spagna2-circolare-96.png",
     "ISO": "ES",
-    "Visited": {},
+    "Visited": {
+    	"years": "2011, 2022, 2024",
+      "cities": "Barcelona, Santa Cruz de Tenerife",
+      "photos": [
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68643bb7b2cca293be0ae6c6_IMG_1494.webp",
+          "description": "Radazul, Tenerife"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68643bb7dffab0360daad545_IMG_5041.webp",
+          "description": "Playa de las Teresitas, Tenerife"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68643bb7202ec87cecdcfe82_IMG_5122.webp",
+          "description": "Teide, Tenerife"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68643bb7e5a0a401bd8e9cae_IMG_5098.webp",
+          "description": "Teide, Tenerife"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68643cf7340c6d78b6eae25c_IMG_5257.webp",
+          "description": "Candelaria, Tenerife"
+        }
+      ]
+    },
     "Continent": "europe"
   },
   {
@@ -1547,7 +1572,28 @@ export const countriesData = [
     "Name": "SWITZERLAND",
     "Flag": "67e3ffc88f0f4eced6e32ca0/68615949cd86a99fd7393a86_icons8-circolare-svizzera-96.png",
     "ISO": "CH",
-    "Visited": {},
+    "Visited": {
+    	"years": "2006, 2016, 2022, 2023",
+      "cities": "Bern, Zurich, St. Gallen, Lugano, Interlaken",
+      "photos": [
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68644de9427762ca0177709b_IMG_3202.webp",
+          "description": "Rorschach"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68644de9dd58ab22047995cf_IMG_3157.webp",
+          "description": "Lake Constance"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68644de9a81aa3f3796218cf_IMG_3205.webp",
+          "description": "Splugen Pass"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68644de9ec843e40b6a4949a_IMG_9037.webp",
+          "description": "Lake Constance"
+        }
+      ]
+    },
     "Continent": "europe"
   },
   {
@@ -1659,7 +1705,32 @@ export const countriesData = [
     "Name": "UNITED KINGDOM",
     "Flag": "67e3ffc88f0f4eced6e32ca0/68615949eb658d93d6bb6b85_icons8-circolare-della-gran-bretagna-96.png",
     "ISO": "GB",
-    "Visited": {},
+    "Visited": {
+    	"years": "2016, 2019, 2023",
+      "cities": "London",
+      "photos": [
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68644fc0bdaa7621758e0c0e_41256BE3-7F55-4560-8CF9-8136614F9D35.webp",
+          "description": "Clock Tower, London"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68644fc159441562871aaca0_9ECAEA8D-FCB2-4071-BF11-F476287AC6F8.webp",
+          "description": "King's Cross, London"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68644fc1d875e3186ac0e44e_IMG_3088.webp",
+          "description": "Primrose Hill, London"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68644fc13ce2c58dba2c0aa2_352A17DC-C525-4048-B911-09447A431C84.webp",
+          "description": "London"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68644fc35efa8ee85a71675c_FE37BCC6-2DB9-4A3C-BD17-2B6482FA4827.webp",
+          "description": "London"
+        }
+      ]
+    },
     "Continent": "europe"
   },
   {
@@ -1673,7 +1744,36 @@ export const countriesData = [
     "Name": "USA",
     "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
     "ISO": "US",
-    "Visited": {},
+    "Visited": {
+    	"years": "2025",
+      "cities": "New York City, Washington D.C.",
+      "photos": [
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/686451300588891f7420beb7_IMG_6160.webp",
+          "description": "Statue of Liberty, New York City"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68645130f950cf727bd227c4_IMG_5793.webp",
+          "description": "Radio City Music Hall, New York City"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68645130c6430209f1f5d098_IMG_6307.webp",
+          "description": "Lincoln Memorial, Washington D.C."
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68645130fb1a9ba77f71da4b_IMG_6126.webp",
+          "description": "Empire State Building, New York City"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/6864513131693aaa43c8d1fd_IMG_6084.webp",
+          "description": "Brooklyn Bridge, New York City"
+        },
+        {
+          "link": "67e3ffc88f0f4eced6e32ca0/68645131a0e2e0d381927ebe_IMG_5818.webp",
+          "description": "Times Square, New York City"
+        }
+      ]
+    },
     "Continent": "north-america"
   },
   {
