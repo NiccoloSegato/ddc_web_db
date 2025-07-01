@@ -1,4 +1,4 @@
-const countriesData = [
+export const countriesData = [
   {
     "Name": "AFGHANISTAN",
     "Flag": "6831c8a6f7482bc92e1902d2/683562ebdbe5f555255498b4_icons8-cerchio-bandiera-afghanistan-96.png",
