@@ -688,7 +688,7 @@ export const countriesData = [
   },
   {
     "Name": "HAITI",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bb314003771fe92fbf484_icons8-circolare-della-repubblica-di-haiti-96.png",
     "ISO": "HT",
     "Visited": {},
     "Continent": "north-america"
@@ -741,28 +741,28 @@ export const countriesData = [
   },
   {
     "Name": "INDIA",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bb532fbdfe28c861f1188_icons8-india-circolare-96.png",
     "ISO": "IN",
     "Visited": {},
     "Continent": "asia"
   },
   {
     "Name": "INDONESIA",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba929c49b9f6e19c07ff_icons8-indonesia-circolare-96.png",
     "ISO": "ID",
     "Visited": {},
     "Continent": "asia"
   },
   {
     "Name": "IRAN",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba927339dde893139b3c_icons8-iran-circolare-96.png",
     "ISO": "IR",
     "Visited": {},
     "Continent": "asia"
   },
   {
     "Name": "IRAQ",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba937fb6fdadca56a46c_icons8-iraq-circolare-96.png",
     "ISO": "IQ",
     "Visited": {},
     "Continent": "asia"
@@ -776,7 +776,7 @@ export const countriesData = [
   },
   {
     "Name": "ISRAEL",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba92d4b977fdfdbebaef_icons8-circolare-israele-96.png",
     "ISO": "IL",
     "Visited": {},
     "Continent": "asia"
@@ -858,14 +858,14 @@ export const countriesData = [
   },
   {
     "Name": "JORDAN",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba94df0fe615b0589e4a_icons8-giordania-circolare-96.png",
     "ISO": "JO",
     "Visited": {},
     "Continent": "asia"
   },
   {
     "Name": "KAZAKHSTAN",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba936e1899a1d8b4ba40_icons8-kazakistan-circolare-96.png",
     "ISO": "KZ",
     "Visited": {},
     "Continent": "asia"
@@ -886,21 +886,21 @@ export const countriesData = [
   },
   {
     "Name": "KUWAIT",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba933924baedf4548498_icons8-kuwait-circolare-96.png",
     "ISO": "KW",
     "Visited": {},
     "Continent": "asia"
   },
   {
     "Name": "KYRGYZSTAN",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba941811776d32a4080d_icons8-kirghizistan-circolare-96.png",
     "ISO": "KG",
     "Visited": {},
     "Continent": "asia"
   },
   {
     "Name": "LAOS",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba9310d360f05a6b48ae_icons8-laos-circolare-96.png",
     "ISO": "LA",
     "Visited": {},
     "Continent": "asia"
@@ -914,7 +914,7 @@ export const countriesData = [
   },
   {
     "Name": "LEBANON",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba937111cae298a4e4c9_icons8-circolare-libano-96.png",
     "ISO": "LB",
     "Visited": {},
     "Continent": "asia"
@@ -977,7 +977,7 @@ export const countriesData = [
   },
   {
     "Name": "MALAYSIA",
-    "Flag": "6831c8a6f7482bc92e1902d2/685e60e24d36241557927e83_void.png",
+    "Flag": "67e3ffc88f0f4eced6e32ca0/686bba951811776d32a40a36_icons8-malesia-circolare-96.png",
     "ISO": "MY",
     "Visited": {},
     "Continent": "asia"
